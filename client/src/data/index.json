@@ -1,0 +1,32 @@
+{ "response": [
+  {
+    "id": "S1001",
+    "name": "Suco de Laranja",
+    "img": "./assets/1.jpg",
+    "price": 6.5
+  },
+  {
+    "id": "H1002",
+    "name": "Hambúrguer de Picanha",
+    "img": "./assets/2.jpg",
+    "price": 12.9
+  },
+  {
+    "id": "H1003",
+    "name": "Hambúrguer Veggie",
+    "img": "./assets/3.jpg",
+    "price": 13.9
+  },
+  {
+    "id": "B1004",
+    "name": "Batata Frita",
+    "img": "./assets/4.jpg",
+    "price": 4.5
+  },
+  {
+    "id": "N1005",
+    "name": "Nuggets de Frango",
+    "img": "./assets/5.jpg",
+    "price": 7.5
+  }
+]}

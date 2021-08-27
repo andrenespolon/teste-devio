@@ -1,0 +1,28 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.fade-in {
+  animation-name: fadeIn;
+  -moz-animation-name: fadeIn;
+  -webkit-animation-name: fadeIn;
+  -o-animation-name: fadeIn;
+  animation-duration: 0.6s;
+}
+
+.ant-input-number-handler-wrap {
+  visibility: hidden;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
